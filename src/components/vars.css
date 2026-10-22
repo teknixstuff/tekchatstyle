@@ -147,7 +147,7 @@ html:not(.custom-theme-background) .theme-light {
 	--deprecated-card-editable-bg: hsla(225, calc(var(--saturation-factor, 1) * 17%), 15%, 0.1);
 
 	--background-modifier-accent: #06060714;
-	--background-mod-subtle: hsl(225 13.11 88.5%);
+	--background-mod-subtle: #fff;
 	--background-mod-muted: hsl(225 13.11 87%) !important;
 	--background-mod-strong: #fff;
 
