@@ -3072,6 +3072,7 @@ html .bar_c38106 {
 	.container_abd9a8 {
 		.panel__6131a {
 			margin: unset;
+			max-width: 100%;
 		}
 		.content_e9e3ed {
 			gap: var(--space-12);
