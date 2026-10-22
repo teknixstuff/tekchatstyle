@@ -3069,6 +3069,7 @@ html .bar_c38106 {
 	border: none;
 	height: 100%;
 	width: 100%;
+	max-width: 100%;
 	.container_abd9a8 {
 		.panel__6131a {
 			margin: unset;
