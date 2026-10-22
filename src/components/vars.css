@@ -149,7 +149,7 @@ html:not(.custom-theme-background) .theme-light {
 	--background-modifier-accent: #06060714;
 	--background-mod-subtle: hsl(225 13.11 88.5%);
 	--background-mod-muted: hsl(225 13.11 87%) !important;
-	--background-mod-strong: hsl(235 13.11 80%);
+	--background-mod-strong: #fff;
 
 	--background-mentioned: hsla(38, calc(var(--saturation-factor, 1) * 96%), 54%, 0.1);
 	--background-mentioned-hover: hsla(38, calc(var(--saturation-factor, 1) * 96%), 54%, 0.2);
