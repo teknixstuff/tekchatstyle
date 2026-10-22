@@ -38,7 +38,7 @@
 
 :root{
  --oldcord-tint: 210; /*Light mode tint. Has to be hue in HSL*/
- --oldcord-tint-intensity: 11.11; /*Tint intensity/Saturation. 0 for grayscale, 10000 for an awesome party*/
+ --oldcord-tint-intensity: 1.0; /*Tint intensity/Saturation. 0 for grayscale, 10000 for an awesome party*/
  
  --reaction-animation: 0; /*animation when someone reacts. 0 off 1 on. buggy.*/
 }
