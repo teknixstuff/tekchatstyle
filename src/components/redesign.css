@@ -3067,7 +3067,8 @@ html .bar_c38106 {
 /*new settings*/
 .container__8a031[data-mana-component="layer-modal"] {
 	border: none;
-	max-width: 1080px !important;
+	height: 100%;
+	width: 100%;
 	.container_abd9a8 {
 		.panel__6131a {
 			margin: unset;
